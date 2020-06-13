@@ -26,6 +26,7 @@ SECRET_KEY = 'g0#rc#ycq#_++%@$#bf#1+@@$#nyefc60n(03^n+s^)%ot+a0-'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'localhost',
     'www.paymick.com',
     'paymick.com',
     'pmapi.eba-c7vy4hqx.us-west-2.elasticbeanstalk.com'
