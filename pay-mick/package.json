@@ -1,0 +1,8 @@
+{
+  "name": "pay-mick",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "3.4.1"
+  }
+}
